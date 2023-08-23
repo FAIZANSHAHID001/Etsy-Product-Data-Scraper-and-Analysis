@@ -15,7 +15,7 @@ This project serves multiple purposes:
 
 **Customization:** Users can easily modify the code to scrape data for different search queries or from other websites with similar structures.
 
-****Documentation:**
+**Documentation:**
 
 1. **Importing Libraries:**
 
